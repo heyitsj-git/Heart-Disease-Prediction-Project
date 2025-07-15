@@ -10,36 +10,6 @@ This project explores the prediction of heart disease using patient data (e.g., 
 
 ---
 
-## 📁 Repository Structure
-
-```
-Heart‑Disease‑Prediction‑Project/
-│
-├── data/
-│   ├── heart.csv         # Raw dataset (UCI / Kaggle)
-│   └── processed.csv     # Cleaned & encoded dataset
-│
-├── notebooks/
-│   ├── 01_EDA.ipynb      # Exploratory Data Analysis
-│   ├── 02_Preprocessing.ipynb
-│   ├── 03_Modeling.ipynb
-│   └── 04_Evaluation.ipynb
-│
-├── models/
-│   └── best_model.pkl    # Serialized trained model
-│
-├── src/
-│   ├── data.py           # Data loading and preprocessing
-│   ├── features.py       # Feature engineering
-│   ├── train.py          # Model training scripts
-│   └── predict.py        # Prediction & evaluation utilities
-│
-├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
-```
-
----
-
 ## 🚀 Features
 
 - **Data Exploration** – Understand feature distributions and correlations via visualizations (histograms, heatmaps).
