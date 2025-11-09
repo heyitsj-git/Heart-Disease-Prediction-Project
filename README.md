@@ -74,7 +74,6 @@ All configurations (e.g. train/test splits, hyperparameters) can be managed thro
 | Random Forest       | 0.92     | 0.90      | 0.91   | 0.91 | 0.94 |
 | XGBoost             | 0.93     | 0.92      | 0.92   | 0.92 | 0.95 |
 
-> *Note: Metrics may vary based on dataset and tuning.*
 
 ---
 
